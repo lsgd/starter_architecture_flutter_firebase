@@ -104,3 +104,6 @@ android/app/google-services.json
 
 # Firebase hosting
 .firebase/
+
+# Release files
+_releases/
